@@ -1,0 +1,5 @@
+# .gitignore
+# python environment
+.venv/
+.projEnv/
+
