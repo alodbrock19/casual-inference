@@ -1,0 +1,75 @@
+{
+  "n_periods": 4,
+  "total_observations": 3308,
+  "tickers": [
+    "AAPL",
+    "ABBV",
+    "AMD",
+    "AVGO",
+    "BAC",
+    "C",
+    "CMCSA",
+    "COP",
+    "CVX",
+    "DIS",
+    "EOG",
+    "GOOGL",
+    "GS",
+    "JNJ",
+    "JPM",
+    "LLY",
+    "META",
+    "MPC",
+    "MRK",
+    "MS",
+    "MSFT",
+    "NFLX",
+    "NVDA",
+    "ORCL",
+    "PFE",
+    "SLB",
+    "TMUS",
+    "UNH",
+    "WFC",
+    "XOM"
+  ],
+  "n_tickers": 30,
+  "periods": [
+    {
+      "period_idx": 0,
+      "start_date": "2013-01-03T05:00:00",
+      "end_date": "2016-04-15T04:00:00",
+      "n_obs": 827,
+      "n_tickers": 30,
+      "mean_returns": 4.009511608481018e-18,
+      "std_returns": 1.0
+    },
+    {
+      "period_idx": 1,
+      "start_date": "2016-04-18T04:00:00",
+      "end_date": "2019-07-30T04:00:00",
+      "n_obs": 827,
+      "n_tickers": 30,
+      "mean_returns": -5.369881618501363e-19,
+      "std_returns": 1.0
+    },
+    {
+      "period_idx": 2,
+      "start_date": "2019-07-31T04:00:00",
+      "end_date": "2022-11-08T05:00:00",
+      "n_obs": 827,
+      "n_tickers": 30,
+      "mean_returns": 2.004755804240509e-18,
+      "std_returns": 1.0
+    },
+    {
+      "period_idx": 3,
+      "start_date": "2022-11-09T05:00:00",
+      "end_date": "2026-02-27T05:00:00",
+      "n_obs": 827,
+      "n_tickers": 30,
+      "mean_returns": -4.9402910890212525e-18,
+      "std_returns": 1.0
+    }
+  ]
+}

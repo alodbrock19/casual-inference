@@ -3,3 +3,6 @@
 .venv/
 .projEnv/
 
+# Zone identifiers
+*.zone
+*:Zone.Identifier

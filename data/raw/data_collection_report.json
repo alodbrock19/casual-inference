@@ -1,12 +1,156 @@
 {
-  "collection_date": "2026-07-06T17:00:51.177839",
+  "collection_date": "2026-07-07T19:02:39.215102",
   "configuration": {
     "start_date": "2010-03-01",
     "end_date": "2026-03-01",
-    "n_tickers_requested": 28,
-    "n_tickers_successful": 28
+    "n_tickers_requested": 30,
+    "n_tickers_successful": 30
   },
   "download_report": {
+    "GOOGL": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "META": {
+      "status": "success",
+      "n_rows": 3464,
+      "date_range": "2012-05-18 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "NFLX": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "DIS": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "CMCSA": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "TMUS": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "XOM": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "CVX": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "COP": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "SLB": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "EOG": {
+      "status": "success",
+      "n_rows": 4025,
+      "date_range": "2010-03-01 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "MPC": {
+      "status": "success",
+      "n_rows": 3691,
+      "date_range": "2011-06-24 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
     "JPM": {
       "status": "success",
       "n_rows": 4025,
@@ -31,7 +175,7 @@
         "Volume"
       ]
     },
-    "WFC": {
+    "MS": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -55,18 +199,6 @@
         "Volume"
       ]
     },
-    "MS": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
     "C": {
       "status": "success",
       "n_rows": 4025,
@@ -79,7 +211,7 @@
         "Volume"
       ]
     },
-    "BLK": {
+    "WFC": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -91,7 +223,7 @@
         "Volume"
       ]
     },
-    "AXP": {
+    "AAPL": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -103,7 +235,7 @@
         "Volume"
       ]
     },
-    "CME": {
+    "MSFT": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -115,7 +247,7 @@
         "Volume"
       ]
     },
-    "ICE": {
+    "NVDA": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -127,19 +259,7 @@
         "Volume"
       ]
     },
-    "CFG": {
-      "status": "success",
-      "n_rows": 2874,
-      "date_range": "2014-09-24 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "COF": {
+    "AVGO": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -151,7 +271,7 @@
         "Volume"
       ]
     },
-    "KEY": {
+    "AMD": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -163,7 +283,7 @@
         "Volume"
       ]
     },
-    "RF": {
+    "ORCL": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -175,7 +295,7 @@
         "Volume"
       ]
     },
-    "PNC": {
+    "UNH": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -187,7 +307,7 @@
         "Volume"
       ]
     },
-    "USB": {
+    "JNJ": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -199,7 +319,7 @@
         "Volume"
       ]
     },
-    "FITB": {
+    "LLY": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -211,7 +331,19 @@
         "Volume"
       ]
     },
-    "MTB": {
+    "ABBV": {
+      "status": "success",
+      "n_rows": 3309,
+      "date_range": "2013-01-02 to 2026-02-27",
+      "columns": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "PFE": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -223,115 +355,7 @@
         "Volume"
       ]
     },
-    "CBOE": {
-      "status": "success",
-      "n_rows": 3951,
-      "date_range": "2010-06-15 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "SCHW": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "MSCI": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "AMG": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "BEN": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "EQIX": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "PGR": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "ALL": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "HIG": {
-      "status": "success",
-      "n_rows": 4025,
-      "date_range": "2010-03-01 to 2026-02-27",
-      "columns": [
-        "Open",
-        "High",
-        "Low",
-        "Close",
-        "Volume"
-      ]
-    },
-    "LPL": {
+    "MRK": {
       "status": "success",
       "n_rows": 4025,
       "date_range": "2010-03-01 to 2026-02-27",
@@ -345,6 +369,198 @@
     }
   },
   "validation_report": {
+    "GOOGL": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "META": {
+      "is_valid": true,
+      "n_rows": 3464,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "NFLX": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "DIS": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "CMCSA": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "TMUS": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "XOM": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "CVX": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "COP": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "SLB": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "EOG": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "MPC": {
+      "is_valid": true,
+      "n_rows": 3691,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
     "JPM": {
       "is_valid": true,
       "n_rows": 4025,
@@ -353,11 +569,11 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
@@ -369,43 +585,11 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "WFC": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
         "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "GS": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
+        "Open",
         "Close",
-        "Low",
-        "Volume",
-        "Open"
+        "High"
       ],
       "missing_cols": []
     },
@@ -417,11 +601,27 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "GS": {
+      "is_valid": true,
+      "n_rows": 4025,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
@@ -433,15 +633,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "BLK": {
+    "WFC": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -449,15 +649,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "AXP": {
+    "AAPL": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -465,15 +665,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "CME": {
+    "MSFT": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -481,15 +681,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "ICE": {
+    "NVDA": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -497,31 +697,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "CFG": {
-      "is_valid": true,
-      "n_rows": 2874,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
-        "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "COF": {
+    "AVGO": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -529,15 +713,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "KEY": {
+    "AMD": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -545,15 +729,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "RF": {
+    "ORCL": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -561,15 +745,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "PNC": {
+    "UNH": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -577,15 +761,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "USB": {
+    "JNJ": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -593,15 +777,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "FITB": {
+    "LLY": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -609,15 +793,31 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "MTB": {
+    "ABBV": {
+      "is_valid": true,
+      "n_rows": 3309,
+      "n_missing_close": "0",
+      "n_missing_volume": "0",
+      "missing_pct": 0.0,
+      "n_invalid_price": "0",
+      "expected_cols": [
+        "Volume",
+        "Low",
+        "Open",
+        "Close",
+        "High"
+      ],
+      "missing_cols": []
+    },
+    "PFE": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -625,31 +825,15 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
+        "Low",
+        "Open",
+        "Close",
+        "High"
       ],
       "missing_cols": []
     },
-    "CBOE": {
-      "is_valid": true,
-      "n_rows": 3951,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
-        "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "SCHW": {
+    "MRK": {
       "is_valid": true,
       "n_rows": 4025,
       "n_missing_close": "0",
@@ -657,149 +841,21 @@
       "missing_pct": 0.0,
       "n_invalid_price": "0",
       "expected_cols": [
-        "High",
-        "Close",
-        "Low",
         "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "MSCI": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
         "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "AMG": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
+        "Open",
         "Close",
-        "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "BEN": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
-        "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "EQIX": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
-        "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "PGR": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
-        "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "ALL": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
-        "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "HIG": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
-        "Low",
-        "Volume",
-        "Open"
-      ],
-      "missing_cols": []
-    },
-    "LPL": {
-      "is_valid": true,
-      "n_rows": 4025,
-      "n_missing_close": "0",
-      "n_missing_volume": "0",
-      "missing_pct": 0.0,
-      "n_invalid_price": "0",
-      "expected_cols": [
-        "High",
-        "Close",
-        "Low",
-        "Volume",
-        "Open"
+        "High"
       ],
       "missing_cols": []
     }
   },
   "summary": {
-    "n_downloaded": 28,
+    "n_downloaded": 30,
     "n_failed": 0,
-    "n_valid": 28,
+    "n_valid": 30,
     "n_invalid": 0,
-    "total_rows": 111475,
+    "total_rows": 119139,
     "total_missing_values": "0",
     "download_success_rate": "100.0%",
     "validation_success_rate": "100.0%"

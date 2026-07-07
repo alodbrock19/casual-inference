@@ -11,6 +11,9 @@ from pathlib import Path
 from typing import List, Dict, Tuple
 import json
 
+#def Split_Data(df):
+    
+
 
 class RawDataCollector:
     """
@@ -28,43 +31,36 @@ class RawDataCollector:
     
     # S&P 500 Financial Institutions (Banks, Insurers, Exchanges)
     DEFAULT_INSTITUTIONS = {
-        # Mega-cap Banks
-        'JPM': 'JP Morgan Chase',
-        'BAC': 'Bank of America',
-        'WFC': 'Wells Fargo',
-        'GS': 'Goldman Sachs',
-        'MS': 'Morgan Stanley',
-        'C': 'Citigroup',
-        
-        # Investment/Asset Management
-        'BLK': 'BlackRock',
-        'AXP': 'American Express',
-        'CME': 'CME Group',
-        'ICE': 'Intercontinental Exchange',
-        
-        # Regional Banks
-        'CFG': 'Citizens Financial Group',
-        'COF': 'Capital One',
-        'KEY': 'KeyCorp',
-        'RF': 'Regions Financial',
-        'PNC': 'PNC Financial',
-        'USB': 'U.S. Bancorp',
-        'FITB': 'Fifth Third Bancorp',
-        'MTB': 'M&T Bank',
-        
-        # Specialty Financials
-        'CBOE': 'Cboe Global Markets',
-        'SCHW': 'Charles Schwab',
-        'MSCI': 'MSCI Inc',
-        'AMG': 'Affiliated Managers Group',
-        'BEN': 'Franklin Templeton',
-        'EQIX': 'Equinix',
-        
-        # Insurance Companies (Financial)
-        'PGR': 'Progressive',
-        'ALL': 'Allstate',
-        'HIG': 'Hartford Financial',
-        'LPL': 'LPL Financial',
+        'GOOGL' : 'Alphabet Inc. Class A' ,
+        'META' : 'Meta Platforms Inc.' ,
+        'NFLX' : 'Netflix Inc.' ,
+        'DIS' : 'Walt Disney Company' ,
+        'CMCSA' : 'Comcast Corporation' ,
+        'TMUS' : 'T-Mobile US Inc.' ,
+        'XOM' : 'Exxon Mobil Corporation' ,
+        'CVX' : 'Chevron Corporation' ,
+        'COP' : 'ConocoPhillips' ,
+        'SLB' : 'SLB (Schlumberger)' ,
+        'EOG' : 'EOG Resources Inc.' ,
+        'MPC' : 'Marathon Petroleum Corporation' ,
+        'JPM' : 'JPMorgan Chase & Co.' ,
+        'BAC' : 'Bank of America Corporation' ,
+        'MS' : 'Morgan Stanley' ,
+        'GS' : 'Goldman Sachs Group Inc.' ,
+        'C' :'Citigroup Inc.' ,
+        'WFC' : 'Wells Fargo & Company' ,
+        'AAPL' : 'Apple Inc.' ,
+        'MSFT' : 'Microsoft Corporation' ,
+        'NVDA' : 'NVIDIA Corporation' ,
+        'AVGO' : 'Broadcom Inc.' ,
+        'AMD' : 'Advanced Micro Devices Inc.' ,
+        'ORCL' : 'Oracle Corporation' ,
+        'UNH' : 'UnitedHealth Group Inc.' ,
+        'JNJ' : 'Johnson & Johnson' ,
+        'LLY' : 'Eli Lilly and Company' ,
+        'ABBV' : 'AbbVie Inc.' ,
+        'PFE' : 'Pfizer Inc.' ,
+        'MRK' : 'Merck & Co. Inc.' ,
     }
     
     def __init__(
