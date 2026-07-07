@@ -44,7 +44,7 @@ MAX_LAG = 3                     # r in {1, 2, 3} per project spec
 ALPHA = 0.05                    # significance threshold
 
 TARGET_A = 'AAPL'
-TARGET_B = 'ABBV'
+TARGET_B = 'META'
 
 
 # ============================================================================
@@ -259,7 +259,7 @@ def print_results(results_df: pd.DataFrame, alpha: float = ALPHA) -> None:
 if __name__ == '__main__':
 
     TARGET = 'AAPL'
-    SOURCE = 'ABBV'
+    SOURCE = 'META'
 
     print("=" * 80)
     print(f"GRANGER CAUSALITY TEST: {TARGET} <-> {SOURCE}")
