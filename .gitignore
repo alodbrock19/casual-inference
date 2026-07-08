@@ -6,3 +6,7 @@
 # Zone identifiers
 *.zone
 *:Zone.Identifier
+
+#Cache files
+__pycache__/
+*.cache
