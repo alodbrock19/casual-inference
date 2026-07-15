@@ -2,3 +2,6 @@ numpy
 pandas
 yfinance
 scipy
+statsmodels
+matplotlib
+networkx

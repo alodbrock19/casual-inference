@@ -1,0 +1,601 @@
+mode,method,period,source_sector,target_sector,density
+log_price,granger,0,Communication Services,Communication Services,0.06666666666666667
+log_price,granger,0,Communication Services,Energy,0.19444444444444445
+log_price,granger,0,Communication Services,Financials,0.1388888888888889
+log_price,granger,0,Communication Services,Information Technology,0.0
+log_price,granger,0,Communication Services,Health Care,0.027777777777777776
+log_price,granger,0,Energy,Communication Services,0.0
+log_price,granger,0,Energy,Energy,0.16666666666666666
+log_price,granger,0,Energy,Financials,0.0
+log_price,granger,0,Energy,Information Technology,0.0
+log_price,granger,0,Energy,Health Care,0.0
+log_price,granger,0,Financials,Communication Services,0.0
+log_price,granger,0,Financials,Energy,0.4166666666666667
+log_price,granger,0,Financials,Financials,0.0
+log_price,granger,0,Financials,Information Technology,0.05555555555555555
+log_price,granger,0,Financials,Health Care,0.0
+log_price,granger,0,Information Technology,Communication Services,0.0
+log_price,granger,0,Information Technology,Energy,0.1388888888888889
+log_price,granger,0,Information Technology,Financials,0.027777777777777776
+log_price,granger,0,Information Technology,Information Technology,0.0
+log_price,granger,0,Information Technology,Health Care,0.1111111111111111
+log_price,granger,0,Health Care,Communication Services,0.0
+log_price,granger,0,Health Care,Energy,0.2222222222222222
+log_price,granger,0,Health Care,Financials,0.1111111111111111
+log_price,granger,0,Health Care,Information Technology,0.1111111111111111
+log_price,granger,0,Health Care,Health Care,0.1
+log_price,granger,1,Communication Services,Communication Services,0.06666666666666667
+log_price,granger,1,Communication Services,Energy,0.027777777777777776
+log_price,granger,1,Communication Services,Financials,0.0
+log_price,granger,1,Communication Services,Information Technology,0.05555555555555555
+log_price,granger,1,Communication Services,Health Care,0.08333333333333333
+log_price,granger,1,Energy,Communication Services,0.027777777777777776
+log_price,granger,1,Energy,Energy,0.1
+log_price,granger,1,Energy,Financials,0.0
+log_price,granger,1,Energy,Information Technology,0.027777777777777776
+log_price,granger,1,Energy,Health Care,0.027777777777777776
+log_price,granger,1,Financials,Communication Services,0.1388888888888889
+log_price,granger,1,Financials,Energy,0.0
+log_price,granger,1,Financials,Financials,0.0
+log_price,granger,1,Financials,Information Technology,0.16666666666666666
+log_price,granger,1,Financials,Health Care,0.0
+log_price,granger,1,Information Technology,Communication Services,0.08333333333333333
+log_price,granger,1,Information Technology,Energy,0.0
+log_price,granger,1,Information Technology,Financials,0.0
+log_price,granger,1,Information Technology,Information Technology,0.0
+log_price,granger,1,Information Technology,Health Care,0.08333333333333333
+log_price,granger,1,Health Care,Communication Services,0.027777777777777776
+log_price,granger,1,Health Care,Energy,0.027777777777777776
+log_price,granger,1,Health Care,Financials,0.0
+log_price,granger,1,Health Care,Information Technology,0.1111111111111111
+log_price,granger,1,Health Care,Health Care,0.0
+log_price,granger,2,Communication Services,Communication Services,0.23333333333333334
+log_price,granger,2,Communication Services,Energy,0.027777777777777776
+log_price,granger,2,Communication Services,Financials,0.0
+log_price,granger,2,Communication Services,Information Technology,0.16666666666666666
+log_price,granger,2,Communication Services,Health Care,0.05555555555555555
+log_price,granger,2,Energy,Communication Services,0.2222222222222222
+log_price,granger,2,Energy,Energy,0.1
+log_price,granger,2,Energy,Financials,0.027777777777777776
+log_price,granger,2,Energy,Information Technology,0.0
+log_price,granger,2,Energy,Health Care,0.1111111111111111
+log_price,granger,2,Financials,Communication Services,0.027777777777777776
+log_price,granger,2,Financials,Energy,0.0
+log_price,granger,2,Financials,Financials,0.0
+log_price,granger,2,Financials,Information Technology,0.0
+log_price,granger,2,Financials,Health Care,0.0
+log_price,granger,2,Information Technology,Communication Services,0.16666666666666666
+log_price,granger,2,Information Technology,Energy,0.19444444444444445
+log_price,granger,2,Information Technology,Financials,0.0
+log_price,granger,2,Information Technology,Information Technology,0.26666666666666666
+log_price,granger,2,Information Technology,Health Care,0.05555555555555555
+log_price,granger,2,Health Care,Communication Services,0.25
+log_price,granger,2,Health Care,Energy,0.3333333333333333
+log_price,granger,2,Health Care,Financials,0.08333333333333333
+log_price,granger,2,Health Care,Information Technology,0.05555555555555555
+log_price,granger,2,Health Care,Health Care,0.1
+log_price,granger,3,Communication Services,Communication Services,0.06666666666666667
+log_price,granger,3,Communication Services,Energy,0.05555555555555555
+log_price,granger,3,Communication Services,Financials,0.08333333333333333
+log_price,granger,3,Communication Services,Information Technology,0.027777777777777776
+log_price,granger,3,Communication Services,Health Care,0.08333333333333333
+log_price,granger,3,Energy,Communication Services,0.08333333333333333
+log_price,granger,3,Energy,Energy,0.1
+log_price,granger,3,Energy,Financials,0.2222222222222222
+log_price,granger,3,Energy,Information Technology,0.4722222222222222
+log_price,granger,3,Energy,Health Care,0.027777777777777776
+log_price,granger,3,Financials,Communication Services,0.0
+log_price,granger,3,Financials,Energy,0.16666666666666666
+log_price,granger,3,Financials,Financials,0.03333333333333333
+log_price,granger,3,Financials,Information Technology,0.0
+log_price,granger,3,Financials,Health Care,0.16666666666666666
+log_price,granger,3,Information Technology,Communication Services,0.027777777777777776
+log_price,granger,3,Information Technology,Energy,0.19444444444444445
+log_price,granger,3,Information Technology,Financials,0.2777777777777778
+log_price,granger,3,Information Technology,Information Technology,0.06666666666666667
+log_price,granger,3,Information Technology,Health Care,0.1111111111111111
+log_price,granger,3,Health Care,Communication Services,0.0
+log_price,granger,3,Health Care,Energy,0.19444444444444445
+log_price,granger,3,Health Care,Financials,0.19444444444444445
+log_price,granger,3,Health Care,Information Technology,0.08333333333333333
+log_price,granger,3,Health Care,Health Care,0.1
+log_price,te,0,Communication Services,Communication Services,0.16666666666666666
+log_price,te,0,Communication Services,Energy,0.2222222222222222
+log_price,te,0,Communication Services,Financials,0.1111111111111111
+log_price,te,0,Communication Services,Information Technology,0.1388888888888889
+log_price,te,0,Communication Services,Health Care,0.08333333333333333
+log_price,te,0,Energy,Communication Services,0.19444444444444445
+log_price,te,0,Energy,Energy,0.26666666666666666
+log_price,te,0,Energy,Financials,0.2222222222222222
+log_price,te,0,Energy,Information Technology,0.2222222222222222
+log_price,te,0,Energy,Health Care,0.08333333333333333
+log_price,te,0,Financials,Communication Services,0.08333333333333333
+log_price,te,0,Financials,Energy,0.3055555555555556
+log_price,te,0,Financials,Financials,0.03333333333333333
+log_price,te,0,Financials,Information Technology,0.19444444444444445
+log_price,te,0,Financials,Health Care,0.08333333333333333
+log_price,te,0,Information Technology,Communication Services,0.16666666666666666
+log_price,te,0,Information Technology,Energy,0.16666666666666666
+log_price,te,0,Information Technology,Financials,0.3055555555555556
+log_price,te,0,Information Technology,Information Technology,0.3333333333333333
+log_price,te,0,Information Technology,Health Care,0.16666666666666666
+log_price,te,0,Health Care,Communication Services,0.25
+log_price,te,0,Health Care,Energy,0.19444444444444445
+log_price,te,0,Health Care,Financials,0.08333333333333333
+log_price,te,0,Health Care,Information Technology,0.1388888888888889
+log_price,te,0,Health Care,Health Care,0.13333333333333333
+log_price,te,1,Communication Services,Communication Services,0.3333333333333333
+log_price,te,1,Communication Services,Energy,0.2222222222222222
+log_price,te,1,Communication Services,Financials,0.05555555555555555
+log_price,te,1,Communication Services,Information Technology,0.2777777777777778
+log_price,te,1,Communication Services,Health Care,0.3333333333333333
+log_price,te,1,Energy,Communication Services,0.3333333333333333
+log_price,te,1,Energy,Energy,0.1
+log_price,te,1,Energy,Financials,0.05555555555555555
+log_price,te,1,Energy,Information Technology,0.2222222222222222
+log_price,te,1,Energy,Health Care,0.2222222222222222
+log_price,te,1,Financials,Communication Services,0.19444444444444445
+log_price,te,1,Financials,Energy,0.25
+log_price,te,1,Financials,Financials,0.16666666666666666
+log_price,te,1,Financials,Information Technology,0.4166666666666667
+log_price,te,1,Financials,Health Care,0.16666666666666666
+log_price,te,1,Information Technology,Communication Services,0.2777777777777778
+log_price,te,1,Information Technology,Energy,0.25
+log_price,te,1,Information Technology,Financials,0.16666666666666666
+log_price,te,1,Information Technology,Information Technology,0.3333333333333333
+log_price,te,1,Information Technology,Health Care,0.25
+log_price,te,1,Health Care,Communication Services,0.3055555555555556
+log_price,te,1,Health Care,Energy,0.16666666666666666
+log_price,te,1,Health Care,Financials,0.1111111111111111
+log_price,te,1,Health Care,Information Technology,0.2222222222222222
+log_price,te,1,Health Care,Health Care,0.3333333333333333
+log_price,te,2,Communication Services,Communication Services,0.3333333333333333
+log_price,te,2,Communication Services,Energy,0.2777777777777778
+log_price,te,2,Communication Services,Financials,0.3888888888888889
+log_price,te,2,Communication Services,Information Technology,0.16666666666666666
+log_price,te,2,Communication Services,Health Care,0.1388888888888889
+log_price,te,2,Energy,Communication Services,0.3333333333333333
+log_price,te,2,Energy,Energy,0.13333333333333333
+log_price,te,2,Energy,Financials,0.2777777777777778
+log_price,te,2,Energy,Information Technology,0.4722222222222222
+log_price,te,2,Energy,Health Care,0.16666666666666666
+log_price,te,2,Financials,Communication Services,0.16666666666666666
+log_price,te,2,Financials,Energy,0.3888888888888889
+log_price,te,2,Financials,Financials,0.23333333333333334
+log_price,te,2,Financials,Information Technology,0.2777777777777778
+log_price,te,2,Financials,Health Care,0.2222222222222222
+log_price,te,2,Information Technology,Communication Services,0.4166666666666667
+log_price,te,2,Information Technology,Energy,0.19444444444444445
+log_price,te,2,Information Technology,Financials,0.4722222222222222
+log_price,te,2,Information Technology,Information Technology,0.16666666666666666
+log_price,te,2,Information Technology,Health Care,0.3055555555555556
+log_price,te,2,Health Care,Communication Services,0.2777777777777778
+log_price,te,2,Health Care,Energy,0.1388888888888889
+log_price,te,2,Health Care,Financials,0.2777777777777778
+log_price,te,2,Health Care,Information Technology,0.3055555555555556
+log_price,te,2,Health Care,Health Care,0.06666666666666667
+log_price,te,3,Communication Services,Communication Services,0.3
+log_price,te,3,Communication Services,Energy,0.05555555555555555
+log_price,te,3,Communication Services,Financials,0.3055555555555556
+log_price,te,3,Communication Services,Information Technology,0.2222222222222222
+log_price,te,3,Communication Services,Health Care,0.2222222222222222
+log_price,te,3,Energy,Communication Services,0.08333333333333333
+log_price,te,3,Energy,Energy,0.03333333333333333
+log_price,te,3,Energy,Financials,0.08333333333333333
+log_price,te,3,Energy,Information Technology,0.027777777777777776
+log_price,te,3,Energy,Health Care,0.027777777777777776
+log_price,te,3,Financials,Communication Services,0.4444444444444444
+log_price,te,3,Financials,Energy,0.0
+log_price,te,3,Financials,Financials,0.3
+log_price,te,3,Financials,Information Technology,0.4444444444444444
+log_price,te,3,Financials,Health Care,0.5555555555555556
+log_price,te,3,Information Technology,Communication Services,0.2222222222222222
+log_price,te,3,Information Technology,Energy,0.027777777777777776
+log_price,te,3,Information Technology,Financials,0.4166666666666667
+log_price,te,3,Information Technology,Information Technology,0.2
+log_price,te,3,Information Technology,Health Care,0.2777777777777778
+log_price,te,3,Health Care,Communication Services,0.4166666666666667
+log_price,te,3,Health Care,Energy,0.05555555555555555
+log_price,te,3,Health Care,Financials,0.1111111111111111
+log_price,te,3,Health Care,Information Technology,0.3055555555555556
+log_price,te,3,Health Care,Health Care,0.4
+log_price,digauss,0,Communication Services,Communication Services,0.16666666666666666
+log_price,digauss,0,Communication Services,Energy,0.16666666666666666
+log_price,digauss,0,Communication Services,Financials,0.1111111111111111
+log_price,digauss,0,Communication Services,Information Technology,0.027777777777777776
+log_price,digauss,0,Communication Services,Health Care,0.05555555555555555
+log_price,digauss,0,Energy,Communication Services,0.0
+log_price,digauss,0,Energy,Energy,0.23333333333333334
+log_price,digauss,0,Energy,Financials,0.027777777777777776
+log_price,digauss,0,Energy,Information Technology,0.027777777777777776
+log_price,digauss,0,Energy,Health Care,0.027777777777777776
+log_price,digauss,0,Financials,Communication Services,0.027777777777777776
+log_price,digauss,0,Financials,Energy,0.4444444444444444
+log_price,digauss,0,Financials,Financials,0.0
+log_price,digauss,0,Financials,Information Technology,0.0
+log_price,digauss,0,Financials,Health Care,0.0
+log_price,digauss,0,Information Technology,Communication Services,0.027777777777777776
+log_price,digauss,0,Information Technology,Energy,0.08333333333333333
+log_price,digauss,0,Information Technology,Financials,0.05555555555555555
+log_price,digauss,0,Information Technology,Information Technology,0.0
+log_price,digauss,0,Information Technology,Health Care,0.1111111111111111
+log_price,digauss,0,Health Care,Communication Services,0.05555555555555555
+log_price,digauss,0,Health Care,Energy,0.2222222222222222
+log_price,digauss,0,Health Care,Financials,0.16666666666666666
+log_price,digauss,0,Health Care,Information Technology,0.19444444444444445
+log_price,digauss,0,Health Care,Health Care,0.1
+log_price,digauss,1,Communication Services,Communication Services,0.06666666666666667
+log_price,digauss,1,Communication Services,Energy,0.05555555555555555
+log_price,digauss,1,Communication Services,Financials,0.0
+log_price,digauss,1,Communication Services,Information Technology,0.08333333333333333
+log_price,digauss,1,Communication Services,Health Care,0.1111111111111111
+log_price,digauss,1,Energy,Communication Services,0.027777777777777776
+log_price,digauss,1,Energy,Energy,0.13333333333333333
+log_price,digauss,1,Energy,Financials,0.0
+log_price,digauss,1,Energy,Information Technology,0.0
+log_price,digauss,1,Energy,Health Care,0.027777777777777776
+log_price,digauss,1,Financials,Communication Services,0.2222222222222222
+log_price,digauss,1,Financials,Energy,0.0
+log_price,digauss,1,Financials,Financials,0.0
+log_price,digauss,1,Financials,Information Technology,0.16666666666666666
+log_price,digauss,1,Financials,Health Care,0.0
+log_price,digauss,1,Information Technology,Communication Services,0.08333333333333333
+log_price,digauss,1,Information Technology,Energy,0.0
+log_price,digauss,1,Information Technology,Financials,0.0
+log_price,digauss,1,Information Technology,Information Technology,0.13333333333333333
+log_price,digauss,1,Information Technology,Health Care,0.027777777777777776
+log_price,digauss,1,Health Care,Communication Services,0.027777777777777776
+log_price,digauss,1,Health Care,Energy,0.1111111111111111
+log_price,digauss,1,Health Care,Financials,0.0
+log_price,digauss,1,Health Care,Information Technology,0.1111111111111111
+log_price,digauss,1,Health Care,Health Care,0.03333333333333333
+log_price,digauss,2,Communication Services,Communication Services,0.36666666666666664
+log_price,digauss,2,Communication Services,Energy,0.027777777777777776
+log_price,digauss,2,Communication Services,Financials,0.16666666666666666
+log_price,digauss,2,Communication Services,Information Technology,0.19444444444444445
+log_price,digauss,2,Communication Services,Health Care,0.16666666666666666
+log_price,digauss,2,Energy,Communication Services,0.3333333333333333
+log_price,digauss,2,Energy,Energy,0.2
+log_price,digauss,2,Energy,Financials,0.0
+log_price,digauss,2,Energy,Information Technology,0.0
+log_price,digauss,2,Energy,Health Care,0.1111111111111111
+log_price,digauss,2,Financials,Communication Services,0.05555555555555555
+log_price,digauss,2,Financials,Energy,0.0
+log_price,digauss,2,Financials,Financials,0.03333333333333333
+log_price,digauss,2,Financials,Information Technology,0.0
+log_price,digauss,2,Financials,Health Care,0.027777777777777776
+log_price,digauss,2,Information Technology,Communication Services,0.2777777777777778
+log_price,digauss,2,Information Technology,Energy,0.2777777777777778
+log_price,digauss,2,Information Technology,Financials,0.05555555555555555
+log_price,digauss,2,Information Technology,Information Technology,0.23333333333333334
+log_price,digauss,2,Information Technology,Health Care,0.16666666666666666
+log_price,digauss,2,Health Care,Communication Services,0.4166666666666667
+log_price,digauss,2,Health Care,Energy,0.3333333333333333
+log_price,digauss,2,Health Care,Financials,0.3055555555555556
+log_price,digauss,2,Health Care,Information Technology,0.05555555555555555
+log_price,digauss,2,Health Care,Health Care,0.13333333333333333
+log_price,digauss,3,Communication Services,Communication Services,0.06666666666666667
+log_price,digauss,3,Communication Services,Energy,0.05555555555555555
+log_price,digauss,3,Communication Services,Financials,0.05555555555555555
+log_price,digauss,3,Communication Services,Information Technology,0.1111111111111111
+log_price,digauss,3,Communication Services,Health Care,0.05555555555555555
+log_price,digauss,3,Energy,Communication Services,0.16666666666666666
+log_price,digauss,3,Energy,Energy,0.1
+log_price,digauss,3,Energy,Financials,0.2222222222222222
+log_price,digauss,3,Energy,Information Technology,0.5
+log_price,digauss,3,Energy,Health Care,0.0
+log_price,digauss,3,Financials,Communication Services,0.027777777777777776
+log_price,digauss,3,Financials,Energy,0.1388888888888889
+log_price,digauss,3,Financials,Financials,0.13333333333333333
+log_price,digauss,3,Financials,Information Technology,0.0
+log_price,digauss,3,Financials,Health Care,0.16666666666666666
+log_price,digauss,3,Information Technology,Communication Services,0.027777777777777776
+log_price,digauss,3,Information Technology,Energy,0.2222222222222222
+log_price,digauss,3,Information Technology,Financials,0.1111111111111111
+log_price,digauss,3,Information Technology,Information Technology,0.13333333333333333
+log_price,digauss,3,Information Technology,Health Care,0.16666666666666666
+log_price,digauss,3,Health Care,Communication Services,0.05555555555555555
+log_price,digauss,3,Health Care,Energy,0.2222222222222222
+log_price,digauss,3,Health Care,Financials,0.2222222222222222
+log_price,digauss,3,Health Care,Information Technology,0.08333333333333333
+log_price,digauss,3,Health Care,Health Care,0.13333333333333333
+log_return,granger,0,Communication Services,Communication Services,0.0
+log_return,granger,0,Communication Services,Energy,0.05555555555555555
+log_return,granger,0,Communication Services,Financials,0.027777777777777776
+log_return,granger,0,Communication Services,Information Technology,0.027777777777777776
+log_return,granger,0,Communication Services,Health Care,0.027777777777777776
+log_return,granger,0,Energy,Communication Services,0.027777777777777776
+log_return,granger,0,Energy,Energy,0.06666666666666667
+log_return,granger,0,Energy,Financials,0.05555555555555555
+log_return,granger,0,Energy,Information Technology,0.027777777777777776
+log_return,granger,0,Energy,Health Care,0.0
+log_return,granger,0,Financials,Communication Services,0.0
+log_return,granger,0,Financials,Energy,0.0
+log_return,granger,0,Financials,Financials,0.06666666666666667
+log_return,granger,0,Financials,Information Technology,0.0
+log_return,granger,0,Financials,Health Care,0.027777777777777776
+log_return,granger,0,Information Technology,Communication Services,0.0
+log_return,granger,0,Information Technology,Energy,0.0
+log_return,granger,0,Information Technology,Financials,0.027777777777777776
+log_return,granger,0,Information Technology,Information Technology,0.0
+log_return,granger,0,Information Technology,Health Care,0.08333333333333333
+log_return,granger,0,Health Care,Communication Services,0.05555555555555555
+log_return,granger,0,Health Care,Energy,0.05555555555555555
+log_return,granger,0,Health Care,Financials,0.19444444444444445
+log_return,granger,0,Health Care,Information Technology,0.08333333333333333
+log_return,granger,0,Health Care,Health Care,0.06666666666666667
+log_return,granger,1,Communication Services,Communication Services,0.0
+log_return,granger,1,Communication Services,Energy,0.0
+log_return,granger,1,Communication Services,Financials,0.0
+log_return,granger,1,Communication Services,Information Technology,0.027777777777777776
+log_return,granger,1,Communication Services,Health Care,0.05555555555555555
+log_return,granger,1,Energy,Communication Services,0.0
+log_return,granger,1,Energy,Energy,0.0
+log_return,granger,1,Energy,Financials,0.0
+log_return,granger,1,Energy,Information Technology,0.0
+log_return,granger,1,Energy,Health Care,0.0
+log_return,granger,1,Financials,Communication Services,0.25
+log_return,granger,1,Financials,Energy,0.027777777777777776
+log_return,granger,1,Financials,Financials,0.03333333333333333
+log_return,granger,1,Financials,Information Technology,0.2777777777777778
+log_return,granger,1,Financials,Health Care,0.05555555555555555
+log_return,granger,1,Information Technology,Communication Services,0.027777777777777776
+log_return,granger,1,Information Technology,Energy,0.027777777777777776
+log_return,granger,1,Information Technology,Financials,0.0
+log_return,granger,1,Information Technology,Information Technology,0.1
+log_return,granger,1,Information Technology,Health Care,0.0
+log_return,granger,1,Health Care,Communication Services,0.0
+log_return,granger,1,Health Care,Energy,0.027777777777777776
+log_return,granger,1,Health Care,Financials,0.0
+log_return,granger,1,Health Care,Information Technology,0.027777777777777776
+log_return,granger,1,Health Care,Health Care,0.06666666666666667
+log_return,granger,2,Communication Services,Communication Services,0.1
+log_return,granger,2,Communication Services,Energy,0.1388888888888889
+log_return,granger,2,Communication Services,Financials,0.0
+log_return,granger,2,Communication Services,Information Technology,0.1388888888888889
+log_return,granger,2,Communication Services,Health Care,0.1111111111111111
+log_return,granger,2,Energy,Communication Services,0.3333333333333333
+log_return,granger,2,Energy,Energy,0.23333333333333334
+log_return,granger,2,Energy,Financials,0.0
+log_return,granger,2,Energy,Information Technology,0.3055555555555556
+log_return,granger,2,Energy,Health Care,0.0
+log_return,granger,2,Financials,Communication Services,0.08333333333333333
+log_return,granger,2,Financials,Energy,0.0
+log_return,granger,2,Financials,Financials,0.03333333333333333
+log_return,granger,2,Financials,Information Technology,0.1111111111111111
+log_return,granger,2,Financials,Health Care,0.027777777777777776
+log_return,granger,2,Information Technology,Communication Services,0.1111111111111111
+log_return,granger,2,Information Technology,Energy,0.2222222222222222
+log_return,granger,2,Information Technology,Financials,0.0
+log_return,granger,2,Information Technology,Information Technology,0.26666666666666666
+log_return,granger,2,Information Technology,Health Care,0.1111111111111111
+log_return,granger,2,Health Care,Communication Services,0.25
+log_return,granger,2,Health Care,Energy,0.5555555555555556
+log_return,granger,2,Health Care,Financials,0.3888888888888889
+log_return,granger,2,Health Care,Information Technology,0.1388888888888889
+log_return,granger,2,Health Care,Health Care,0.0
+log_return,granger,3,Communication Services,Communication Services,0.03333333333333333
+log_return,granger,3,Communication Services,Energy,0.027777777777777776
+log_return,granger,3,Communication Services,Financials,0.0
+log_return,granger,3,Communication Services,Information Technology,0.0
+log_return,granger,3,Communication Services,Health Care,0.0
+log_return,granger,3,Energy,Communication Services,0.0
+log_return,granger,3,Energy,Energy,0.13333333333333333
+log_return,granger,3,Energy,Financials,0.0
+log_return,granger,3,Energy,Information Technology,0.0
+log_return,granger,3,Energy,Health Care,0.0
+log_return,granger,3,Financials,Communication Services,0.0
+log_return,granger,3,Financials,Energy,0.0
+log_return,granger,3,Financials,Financials,0.06666666666666667
+log_return,granger,3,Financials,Information Technology,0.0
+log_return,granger,3,Financials,Health Care,0.027777777777777776
+log_return,granger,3,Information Technology,Communication Services,0.0
+log_return,granger,3,Information Technology,Energy,0.027777777777777776
+log_return,granger,3,Information Technology,Financials,0.0
+log_return,granger,3,Information Technology,Information Technology,0.0
+log_return,granger,3,Information Technology,Health Care,0.0
+log_return,granger,3,Health Care,Communication Services,0.08333333333333333
+log_return,granger,3,Health Care,Energy,0.0
+log_return,granger,3,Health Care,Financials,0.0
+log_return,granger,3,Health Care,Information Technology,0.05555555555555555
+log_return,granger,3,Health Care,Health Care,0.13333333333333333
+log_return,te,0,Communication Services,Communication Services,0.0
+log_return,te,0,Communication Services,Energy,0.027777777777777776
+log_return,te,0,Communication Services,Financials,0.0
+log_return,te,0,Communication Services,Information Technology,0.0
+log_return,te,0,Communication Services,Health Care,0.027777777777777776
+log_return,te,0,Energy,Communication Services,0.0
+log_return,te,0,Energy,Energy,0.03333333333333333
+log_return,te,0,Energy,Financials,0.027777777777777776
+log_return,te,0,Energy,Information Technology,0.0
+log_return,te,0,Energy,Health Care,0.027777777777777776
+log_return,te,0,Financials,Communication Services,0.0
+log_return,te,0,Financials,Energy,0.0
+log_return,te,0,Financials,Financials,0.0
+log_return,te,0,Financials,Information Technology,0.0
+log_return,te,0,Financials,Health Care,0.0
+log_return,te,0,Information Technology,Communication Services,0.0
+log_return,te,0,Information Technology,Energy,0.0
+log_return,te,0,Information Technology,Financials,0.05555555555555555
+log_return,te,0,Information Technology,Information Technology,0.0
+log_return,te,0,Information Technology,Health Care,0.0
+log_return,te,0,Health Care,Communication Services,0.0
+log_return,te,0,Health Care,Energy,0.0
+log_return,te,0,Health Care,Financials,0.08333333333333333
+log_return,te,0,Health Care,Information Technology,0.1111111111111111
+log_return,te,0,Health Care,Health Care,0.03333333333333333
+log_return,te,1,Communication Services,Communication Services,0.0
+log_return,te,1,Communication Services,Energy,0.0
+log_return,te,1,Communication Services,Financials,0.0
+log_return,te,1,Communication Services,Information Technology,0.027777777777777776
+log_return,te,1,Communication Services,Health Care,0.0
+log_return,te,1,Energy,Communication Services,0.0
+log_return,te,1,Energy,Energy,0.03333333333333333
+log_return,te,1,Energy,Financials,0.05555555555555555
+log_return,te,1,Energy,Information Technology,0.0
+log_return,te,1,Energy,Health Care,0.027777777777777776
+log_return,te,1,Financials,Communication Services,0.0
+log_return,te,1,Financials,Energy,0.0
+log_return,te,1,Financials,Financials,0.0
+log_return,te,1,Financials,Information Technology,0.027777777777777776
+log_return,te,1,Financials,Health Care,0.0
+log_return,te,1,Information Technology,Communication Services,0.027777777777777776
+log_return,te,1,Information Technology,Energy,0.027777777777777776
+log_return,te,1,Information Technology,Financials,0.0
+log_return,te,1,Information Technology,Information Technology,0.03333333333333333
+log_return,te,1,Information Technology,Health Care,0.027777777777777776
+log_return,te,1,Health Care,Communication Services,0.027777777777777776
+log_return,te,1,Health Care,Energy,0.0
+log_return,te,1,Health Care,Financials,0.05555555555555555
+log_return,te,1,Health Care,Information Technology,0.027777777777777776
+log_return,te,1,Health Care,Health Care,0.0
+log_return,te,2,Communication Services,Communication Services,0.03333333333333333
+log_return,te,2,Communication Services,Energy,0.05555555555555555
+log_return,te,2,Communication Services,Financials,0.027777777777777776
+log_return,te,2,Communication Services,Information Technology,0.027777777777777776
+log_return,te,2,Communication Services,Health Care,0.0
+log_return,te,2,Energy,Communication Services,0.0
+log_return,te,2,Energy,Energy,0.06666666666666667
+log_return,te,2,Energy,Financials,0.0
+log_return,te,2,Energy,Information Technology,0.0
+log_return,te,2,Energy,Health Care,0.0
+log_return,te,2,Financials,Communication Services,0.0
+log_return,te,2,Financials,Energy,0.027777777777777776
+log_return,te,2,Financials,Financials,0.0
+log_return,te,2,Financials,Information Technology,0.0
+log_return,te,2,Financials,Health Care,0.027777777777777776
+log_return,te,2,Information Technology,Communication Services,0.05555555555555555
+log_return,te,2,Information Technology,Energy,0.0
+log_return,te,2,Information Technology,Financials,0.0
+log_return,te,2,Information Technology,Information Technology,0.03333333333333333
+log_return,te,2,Information Technology,Health Care,0.05555555555555555
+log_return,te,2,Health Care,Communication Services,0.027777777777777776
+log_return,te,2,Health Care,Energy,0.0
+log_return,te,2,Health Care,Financials,0.027777777777777776
+log_return,te,2,Health Care,Information Technology,0.0
+log_return,te,2,Health Care,Health Care,0.0
+log_return,te,3,Communication Services,Communication Services,0.0
+log_return,te,3,Communication Services,Energy,0.027777777777777776
+log_return,te,3,Communication Services,Financials,0.0
+log_return,te,3,Communication Services,Information Technology,0.0
+log_return,te,3,Communication Services,Health Care,0.0
+log_return,te,3,Energy,Communication Services,0.0
+log_return,te,3,Energy,Energy,0.0
+log_return,te,3,Energy,Financials,0.0
+log_return,te,3,Energy,Information Technology,0.0
+log_return,te,3,Energy,Health Care,0.027777777777777776
+log_return,te,3,Financials,Communication Services,0.05555555555555555
+log_return,te,3,Financials,Energy,0.0
+log_return,te,3,Financials,Financials,0.0
+log_return,te,3,Financials,Information Technology,0.05555555555555555
+log_return,te,3,Financials,Health Care,0.0
+log_return,te,3,Information Technology,Communication Services,0.08333333333333333
+log_return,te,3,Information Technology,Energy,0.05555555555555555
+log_return,te,3,Information Technology,Financials,0.0
+log_return,te,3,Information Technology,Information Technology,0.0
+log_return,te,3,Information Technology,Health Care,0.0
+log_return,te,3,Health Care,Communication Services,0.027777777777777776
+log_return,te,3,Health Care,Energy,0.027777777777777776
+log_return,te,3,Health Care,Financials,0.027777777777777776
+log_return,te,3,Health Care,Information Technology,0.0
+log_return,te,3,Health Care,Health Care,0.06666666666666667
+log_return,digauss,0,Communication Services,Communication Services,0.03333333333333333
+log_return,digauss,0,Communication Services,Energy,0.08333333333333333
+log_return,digauss,0,Communication Services,Financials,0.0
+log_return,digauss,0,Communication Services,Information Technology,0.1388888888888889
+log_return,digauss,0,Communication Services,Health Care,0.05555555555555555
+log_return,digauss,0,Energy,Communication Services,0.027777777777777776
+log_return,digauss,0,Energy,Energy,0.16666666666666666
+log_return,digauss,0,Energy,Financials,0.1111111111111111
+log_return,digauss,0,Energy,Information Technology,0.027777777777777776
+log_return,digauss,0,Energy,Health Care,0.08333333333333333
+log_return,digauss,0,Financials,Communication Services,0.08333333333333333
+log_return,digauss,0,Financials,Energy,0.05555555555555555
+log_return,digauss,0,Financials,Financials,0.1
+log_return,digauss,0,Financials,Information Technology,0.0
+log_return,digauss,0,Financials,Health Care,0.05555555555555555
+log_return,digauss,0,Information Technology,Communication Services,0.0
+log_return,digauss,0,Information Technology,Energy,0.027777777777777776
+log_return,digauss,0,Information Technology,Financials,0.1111111111111111
+log_return,digauss,0,Information Technology,Information Technology,0.03333333333333333
+log_return,digauss,0,Information Technology,Health Care,0.05555555555555555
+log_return,digauss,0,Health Care,Communication Services,0.1388888888888889
+log_return,digauss,0,Health Care,Energy,0.08333333333333333
+log_return,digauss,0,Health Care,Financials,0.16666666666666666
+log_return,digauss,0,Health Care,Information Technology,0.16666666666666666
+log_return,digauss,0,Health Care,Health Care,0.13333333333333333
+log_return,digauss,1,Communication Services,Communication Services,0.03333333333333333
+log_return,digauss,1,Communication Services,Energy,0.0
+log_return,digauss,1,Communication Services,Financials,0.0
+log_return,digauss,1,Communication Services,Information Technology,0.08333333333333333
+log_return,digauss,1,Communication Services,Health Care,0.1111111111111111
+log_return,digauss,1,Energy,Communication Services,0.0
+log_return,digauss,1,Energy,Energy,0.03333333333333333
+log_return,digauss,1,Energy,Financials,0.0
+log_return,digauss,1,Energy,Information Technology,0.0
+log_return,digauss,1,Energy,Health Care,0.0
+log_return,digauss,1,Financials,Communication Services,0.19444444444444445
+log_return,digauss,1,Financials,Energy,0.08333333333333333
+log_return,digauss,1,Financials,Financials,0.06666666666666667
+log_return,digauss,1,Financials,Information Technology,0.3333333333333333
+log_return,digauss,1,Financials,Health Care,0.05555555555555555
+log_return,digauss,1,Information Technology,Communication Services,0.027777777777777776
+log_return,digauss,1,Information Technology,Energy,0.027777777777777776
+log_return,digauss,1,Information Technology,Financials,0.0
+log_return,digauss,1,Information Technology,Information Technology,0.13333333333333333
+log_return,digauss,1,Information Technology,Health Care,0.08333333333333333
+log_return,digauss,1,Health Care,Communication Services,0.1111111111111111
+log_return,digauss,1,Health Care,Energy,0.027777777777777776
+log_return,digauss,1,Health Care,Financials,0.0
+log_return,digauss,1,Health Care,Information Technology,0.1111111111111111
+log_return,digauss,1,Health Care,Health Care,0.1
+log_return,digauss,2,Communication Services,Communication Services,0.3
+log_return,digauss,2,Communication Services,Energy,0.3888888888888889
+log_return,digauss,2,Communication Services,Financials,0.2222222222222222
+log_return,digauss,2,Communication Services,Information Technology,0.3055555555555556
+log_return,digauss,2,Communication Services,Health Care,0.3333333333333333
+log_return,digauss,2,Energy,Communication Services,0.3888888888888889
+log_return,digauss,2,Energy,Energy,0.43333333333333335
+log_return,digauss,2,Energy,Financials,0.25
+log_return,digauss,2,Energy,Information Technology,0.5277777777777778
+log_return,digauss,2,Energy,Health Care,0.3055555555555556
+log_return,digauss,2,Financials,Communication Services,0.3333333333333333
+log_return,digauss,2,Financials,Energy,0.2777777777777778
+log_return,digauss,2,Financials,Financials,0.2
+log_return,digauss,2,Financials,Information Technology,0.16666666666666666
+log_return,digauss,2,Financials,Health Care,0.1388888888888889
+log_return,digauss,2,Information Technology,Communication Services,0.25
+log_return,digauss,2,Information Technology,Energy,0.4444444444444444
+log_return,digauss,2,Information Technology,Financials,0.3055555555555556
+log_return,digauss,2,Information Technology,Information Technology,0.36666666666666664
+log_return,digauss,2,Information Technology,Health Care,0.16666666666666666
+log_return,digauss,2,Health Care,Communication Services,0.4166666666666667
+log_return,digauss,2,Health Care,Energy,0.7777777777777778
+log_return,digauss,2,Health Care,Financials,0.6944444444444444
+log_return,digauss,2,Health Care,Information Technology,0.2777777777777778
+log_return,digauss,2,Health Care,Health Care,0.16666666666666666
+log_return,digauss,3,Communication Services,Communication Services,0.03333333333333333
+log_return,digauss,3,Communication Services,Energy,0.0
+log_return,digauss,3,Communication Services,Financials,0.0
+log_return,digauss,3,Communication Services,Information Technology,0.0
+log_return,digauss,3,Communication Services,Health Care,0.05555555555555555
+log_return,digauss,3,Energy,Communication Services,0.027777777777777776
+log_return,digauss,3,Energy,Energy,0.23333333333333334
+log_return,digauss,3,Energy,Financials,0.027777777777777776
+log_return,digauss,3,Energy,Information Technology,0.0
+log_return,digauss,3,Energy,Health Care,0.0
+log_return,digauss,3,Financials,Communication Services,0.027777777777777776
+log_return,digauss,3,Financials,Energy,0.0
+log_return,digauss,3,Financials,Financials,0.23333333333333334
+log_return,digauss,3,Financials,Information Technology,0.0
+log_return,digauss,3,Financials,Health Care,0.0
+log_return,digauss,3,Information Technology,Communication Services,0.0
+log_return,digauss,3,Information Technology,Energy,0.16666666666666666
+log_return,digauss,3,Information Technology,Financials,0.0
+log_return,digauss,3,Information Technology,Information Technology,0.06666666666666667
+log_return,digauss,3,Information Technology,Health Care,0.027777777777777776
+log_return,digauss,3,Health Care,Communication Services,0.05555555555555555
+log_return,digauss,3,Health Care,Energy,0.1388888888888889
+log_return,digauss,3,Health Care,Financials,0.05555555555555555
+log_return,digauss,3,Health Care,Information Technology,0.05555555555555555
+log_return,digauss,3,Health Care,Health Care,0.03333333333333333

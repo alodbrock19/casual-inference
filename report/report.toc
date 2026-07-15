@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Data and Preprocessing}{2}{section.2}%
+\contentsline {paragraph}{Collection.}{2}{section*.2}%
+\contentsline {paragraph}{Transform: log-prices vs.\ log-returns.}{2}{section*.3}%
+\contentsline {paragraph}{Independent samples.}{3}{section*.5}%
+\contentsline {section}{\numberline {3}Methodology}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Linear track: Granger causality}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Nonlinear track: directed information}{3}{subsection.3.2}%
+\contentsline {paragraph}{Gaussian directed information.}{3}{section*.6}%
+\contentsline {paragraph}{Transfer entropy (model-free).}{4}{section*.7}%
+\contentsline {paragraph}{Sample-complexity reduction.}{4}{section*.8}%
+\contentsline {section}{\numberline {4}Results}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Time-varying causal graphs}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Sector structure}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Tree approximation of the last period}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Sensitivity analysis}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Linear vs.\ nonlinear comparison}{6}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Discussion and Limitations}{7}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{8}{section.6}%

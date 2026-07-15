@@ -1,0 +1,59 @@
+estimator,node_i,node_j,sector_i,sector_j,within_sector,mi_weight
+gauss,GOOGL,AVGO,Communication Services,Information Technology,False,1.0769400936402045
+gauss,GOOGL,AAPL,Communication Services,Information Technology,False,0.9253047688272203
+gauss,GOOGL,XOM,Communication Services,Energy,False,0.4040257716815036
+gauss,META,NVDA,Communication Services,Information Technology,False,1.5802662914969599
+gauss,META,MSFT,Communication Services,Information Technology,False,1.2446293566230582
+gauss,META,PFE,Communication Services,Health Care,False,0.8252731799443268
+gauss,NFLX,JPM,Communication Services,Financials,False,1.2380381998855685
+gauss,NFLX,TMUS,Communication Services,Communication Services,True,0.947465845064645
+gauss,DIS,C,Communication Services,Financials,False,0.41058597194726876
+gauss,CMCSA,MS,Communication Services,Financials,False,0.2463642904365509
+gauss,TMUS,SLB,Communication Services,Energy,False,0.5199316357247512
+gauss,XOM,CVX,Energy,Energy,True,0.32505434675877826
+gauss,COP,SLB,Energy,Energy,True,0.44366881336224057
+gauss,COP,MRK,Energy,Health Care,False,0.26998866365388585
+gauss,COP,EOG,Energy,Energy,True,0.19423669416570322
+gauss,MPC,AMD,Energy,Information Technology,False,0.5967445825354927
+gauss,JPM,WFC,Financials,Financials,True,1.7243580943583192
+gauss,JPM,AVGO,Financials,Information Technology,False,1.6817322124317964
+gauss,BAC,GS,Financials,Financials,True,1.4945582586071433
+gauss,MS,GS,Financials,Financials,True,1.731769400425062
+gauss,MS,JNJ,Financials,Health Care,False,0.37113055741649426
+gauss,GS,C,Financials,Financials,True,1.8863409376035067
+gauss,GS,WFC,Financials,Financials,True,1.524638184653864
+gauss,GS,ABBV,Financials,Health Care,False,1.0301141296609249
+gauss,C,UNH,Financials,Health Care,False,0.2938795764250933
+gauss,MSFT,AMD,Information Technology,Information Technology,True,0.5773850156456057
+gauss,NVDA,AVGO,Information Technology,Information Technology,True,1.295797566326838
+gauss,NVDA,LLY,Information Technology,Health Care,False,1.0356849502971839
+gauss,AVGO,ORCL,Information Technology,Information Technology,True,0.9909806423305119
+ksg,GOOGL,AVGO,Communication Services,Information Technology,False,1.807521148534252
+ksg,META,AVGO,Communication Services,Information Technology,False,2.1248535387860326
+ksg,NFLX,AVGO,Communication Services,Information Technology,False,2.0391497864062567
+ksg,NFLX,SLB,Communication Services,Energy,False,1.1350263723393015
+ksg,DIS,JPM,Communication Services,Financials,False,1.1510133110599998
+ksg,CMCSA,AVGO,Communication Services,Information Technology,False,1.1367738904085787
+ksg,TMUS,GS,Communication Services,Financials,False,1.666626684156702
+ksg,XOM,C,Energy,Financials,False,0.9356130243596441
+ksg,XOM,CVX,Energy,Energy,True,0.6886466190530278
+ksg,COP,SLB,Energy,Energy,True,0.7767494650391207
+ksg,EOG,NVDA,Energy,Information Technology,False,0.5420453890045884
+ksg,MPC,JPM,Energy,Financials,False,1.3394800012306964
+ksg,JPM,GS,Financials,Financials,True,2.3784029346188005
+ksg,JPM,AVGO,Financials,Information Technology,False,2.1144278352320836
+ksg,JPM,UNH,Financials,Health Care,False,1.3872171313177413
+ksg,JPM,PFE,Financials,Health Care,False,1.2948387200623745
+ksg,BAC,GS,Financials,Financials,True,2.136162715823459
+ksg,MS,GS,Financials,Financials,True,2.392245287639258
+ksg,GS,C,Financials,Financials,True,2.3361073858911547
+ksg,GS,WFC,Financials,Financials,True,2.190295834491976
+ksg,GS,MRK,Financials,Health Care,False,1.2036145047432045
+ksg,AAPL,NVDA,Information Technology,Information Technology,True,1.6656438928817092
+ksg,MSFT,AVGO,Information Technology,Information Technology,True,1.825150988191779
+ksg,NVDA,AVGO,Information Technology,Information Technology,True,2.273407636159053
+ksg,NVDA,LLY,Information Technology,Health Care,False,1.6534928706639356
+ksg,AVGO,ORCL,Information Technology,Information Technology,True,1.9487498270978678
+ksg,AVGO,AMD,Information Technology,Information Technology,True,1.692685394920832
+ksg,AVGO,ABBV,Information Technology,Health Care,False,1.6201439708493668
+ksg,JNJ,ABBV,Health Care,Health Care,True,1.0552274071234882

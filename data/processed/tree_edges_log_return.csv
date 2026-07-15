@@ -1,0 +1,59 @@
+estimator,node_i,node_j,sector_i,sector_j,within_sector,mi_weight
+gauss,GOOGL,META,Communication Services,Communication Services,True,0.14150613993744957
+gauss,META,MSFT,Communication Services,Information Technology,False,0.16780881254873908
+gauss,NFLX,MSFT,Communication Services,Information Technology,False,0.09593066180970974
+gauss,DIS,C,Communication Services,Financials,False,0.11825183649083998
+gauss,DIS,CMCSA,Communication Services,Communication Services,True,0.06329291981078951
+gauss,CMCSA,TMUS,Communication Services,Communication Services,True,0.028747004577159414
+gauss,TMUS,JNJ,Communication Services,Health Care,False,0.025227309445034204
+gauss,XOM,CVX,Energy,Energy,True,0.565543795015191
+gauss,XOM,COP,Energy,Energy,True,0.5168411101845095
+gauss,COP,EOG,Energy,Energy,True,0.6451677947466442
+gauss,COP,SLB,Energy,Energy,True,0.404246709508756
+gauss,COP,MPC,Energy,Energy,True,0.27449903558604244
+gauss,MPC,BAC,Energy,Financials,False,0.10249189269996103
+gauss,JPM,BAC,Financials,Financials,True,0.41512718542864036
+gauss,BAC,WFC,Financials,Financials,True,0.5711293430017746
+gauss,BAC,C,Financials,Financials,True,0.5234087714918237
+gauss,MS,GS,Financials,Financials,True,0.5555822109671131
+gauss,GS,C,Financials,Financials,True,0.43003758259832614
+gauss,GS,AAPL,Financials,Information Technology,False,0.08208020872622968
+gauss,AAPL,MSFT,Information Technology,Information Technology,True,0.13232232275789668
+gauss,MSFT,NVDA,Information Technology,Information Technology,True,0.17441196860537958
+gauss,NVDA,AVGO,Information Technology,Information Technology,True,0.2538832930078487
+gauss,NVDA,AMD,Information Technology,Information Technology,True,0.2380393721865721
+gauss,AVGO,ORCL,Information Technology,Information Technology,True,0.12809067935232543
+gauss,UNH,MRK,Health Care,Health Care,True,0.01158968884116766
+gauss,JNJ,PFE,Health Care,Health Care,True,0.0976242365446566
+gauss,JNJ,ABBV,Health Care,Health Care,True,0.09081443965935236
+gauss,LLY,MRK,Health Care,Health Care,True,0.059340544713792596
+gauss,PFE,MRK,Health Care,Health Care,True,0.10131727645400143
+ksg,GOOGL,MSFT,Communication Services,Information Technology,False,0.19581009993855059
+ksg,META,MSFT,Communication Services,Information Technology,False,0.2429279679822658
+ksg,NFLX,MSFT,Communication Services,Information Technology,False,0.17232255230736815
+ksg,DIS,C,Communication Services,Financials,False,0.15529583677875358
+ksg,DIS,CMCSA,Communication Services,Communication Services,True,0.09769192245796976
+ksg,CMCSA,TMUS,Communication Services,Communication Services,True,0.06035378049962503
+ksg,XOM,CVX,Energy,Energy,True,0.6037951688193592
+ksg,XOM,MPC,Energy,Energy,True,0.2693159298611434
+ksg,CVX,COP,Energy,Energy,True,0.5186052986628296
+ksg,CVX,JPM,Energy,Financials,False,0.10661502191291383
+ksg,COP,EOG,Energy,Energy,True,0.6851970387458408
+ksg,COP,SLB,Energy,Energy,True,0.36387124980466723
+ksg,JPM,WFC,Financials,Financials,True,0.4380633116648811
+ksg,BAC,WFC,Financials,Financials,True,0.5578313751504798
+ksg,BAC,C,Financials,Financials,True,0.5371953314484257
+ksg,MS,GS,Financials,Financials,True,0.6404656802192017
+ksg,MS,C,Financials,Financials,True,0.44430828206945794
+ksg,MS,AAPL,Financials,Information Technology,False,0.0884008388443398
+ksg,AAPL,MSFT,Information Technology,Information Technology,True,0.11168909353906198
+ksg,MSFT,NVDA,Information Technology,Information Technology,True,0.20719348076672883
+ksg,MSFT,ORCL,Information Technology,Information Technology,True,0.15400684029264777
+ksg,NVDA,AVGO,Information Technology,Information Technology,True,0.33369108896480615
+ksg,NVDA,AMD,Information Technology,Information Technology,True,0.24712476943882855
+ksg,AMD,UNH,Information Technology,Health Care,False,0.06862397725636171
+ksg,UNH,JNJ,Health Care,Health Care,True,0.05218148547962631
+ksg,JNJ,PFE,Health Care,Health Care,True,0.12692219251879333
+ksg,LLY,MRK,Health Care,Health Care,True,0.0659534977196996
+ksg,ABBV,PFE,Health Care,Health Care,True,0.1263229097095877
+ksg,PFE,MRK,Health Care,Health Care,True,0.11559361454219097
